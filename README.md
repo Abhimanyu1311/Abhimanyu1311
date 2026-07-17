@@ -26,10 +26,11 @@
 </picture>
 
 <!-- 🔧 REPLACE the profile links below with your own -->
-[![GitHub](https://img.shields.io/badge/GitHub-Abhimanyu1311-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimanyu1311)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abhimanyu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimanyu1311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyu-saini-850037280)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abhimanyusaini2001@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Abhimanyu1311&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile views" />
 
@@ -158,7 +159,7 @@ Working across the stack with a strong backend focus, delivering production-grad
 <tr>
 <td width="50%" valign="top">
 
-### 🌆 Nearby Vibes
+### <img src="assets/NearbyVibes.svg" > Nearby Vibes
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -181,7 +182,7 @@ Working across the stack with a strong backend focus, delivering production-grad
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloudquarks
+### <img src="assets/cq.svg" > Cloudquarks
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -200,7 +201,7 @@ Working across the stack with a strong backend focus, delivering production-grad
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Sydkik
+### <img src="assets/sydkik.svg" > Sydkik
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -216,7 +217,7 @@ Working across the stack with a strong backend focus, delivering production-grad
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Klaviss
+### <img src="assets/klaviss.svg" > Klaviss
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -336,10 +337,10 @@ Working across the stack with a strong backend focus, delivering production-grad
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| ☕ **Powered by Coffee** | 🚀 **Backend First** | 🧠 **AI Explorer** |
-| ⚡ **API Craftsman** | 📚 **Lifelong Learner** | 🌍 **Open Source Enthusiast** |
+|                          |                         |                               |
+| :----------------------: | :---------------------: | :---------------------------: |
+| ☕ **Powered by Coffee** |  🚀 **Backend First**   |      🧠 **AI Explorer**       |
+|   ⚡ **API Craftsman**   | 📚 **Lifelong Learner** | 🌍 **Open Source Enthusiast** |
 
 </div>
 
@@ -375,11 +376,12 @@ const currentFocus = {
 <div align="center">
 
 <!-- 🔧 REPLACE all four links below with your real profiles -->
-[![GitHub](https://img.shields.io/badge/GitHub-Abhimanyu1311-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimanyu1311)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-your--email%40domain.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter/X](https://img.shields.io/badge/X-@your--twitter--handle-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhimanyu1311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyu-saini-850037280/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abhimanyusaini2001@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-your--portfolio.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
+<!-- [![Twitter/X](https://img.shields.io/badge/X-@your--twitter--handle-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle) -->
 
 </div>
 
