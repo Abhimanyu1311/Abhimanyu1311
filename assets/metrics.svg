@@ -1,0 +1,17 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="metrics-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9" />
+      <stop offset="50%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#0EA5E9" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" rx="12" fill="#0f172a" />
+  <rect x="0" y="0" width="900" height="4" fill="url(#metrics-bg)" />
+  <text x="450" y="55" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#E2E8F0">
+    📈 GitHub Metrics will render here
+  </text>
+  <text x="450" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">
+    Run the "Generate Metrics" workflow (.github/workflows/metrics.yml) to populate this card
+  </text>
+</svg>

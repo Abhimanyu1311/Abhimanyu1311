@@ -1,0 +1,37 @@
+# Daily refresh job: regenerates the random dev-quote card (assets/quote.svg)
+# and commits it back if it changed. This is what keeps the profile feeling
+# "alive" day to day without any manual work.
+#
+# Requires: none beyond the default GITHUB_TOKEN.
+name: Daily Refresh
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # daily at 05:00 UTC (~10:30 IST)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate random quote SVG
+        run: node scripts/generate-quote-svg.mjs
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/quote.svg
+          git diff --staged --quiet || git commit -m "chore: refresh daily quote [skip ci]"
+          git push
