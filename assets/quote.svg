@@ -1,4 +1,4 @@
-<svg width="760" height="124" viewBox="0 0 760 124" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="148" viewBox="0 0 760 148" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="quote-bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1e1b4b" />
@@ -6,9 +6,10 @@
       <stop offset="100%" stop-color="#0c4a6e" />
     </linearGradient>
   </defs>
-  <rect width="760" height="124" rx="14" fill="url(#quote-bg)" />
+  <rect width="760" height="148" rx="14" fill="url(#quote-bg)" />
   <text x="30" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#A78BFA" opacity="0.6">&#8220;</text>
-  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">Fear is stupid. So are regrets.</text>
-  <text x="380" y="100" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Marilyn Monroe</text>
-  <text x="380" y="124" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
+  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">To be truly positive in the eyes of some, you have to risk appearing negative</text>
+  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">in the eyes of others.</text>
+  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Criss Jami</text>
+  <text x="380" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
 </svg>
