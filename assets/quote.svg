@@ -8,8 +8,8 @@
   </defs>
   <rect width="760" height="148" rx="14" fill="url(#quote-bg)" />
   <text x="30" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#A78BFA" opacity="0.6">&#8220;</text>
-  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">Giving is the secret of a healthy life. Not necessarily money, but whatever a</text>
-  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">person has of encouragement, sympathy and understanding.</text>
-  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— John D. Rockefeller</text>
+  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">One of the advantages of being disorganized is that one is always having</text>
+  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">surprising discoveries.</text>
+  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— A.A. Milne</text>
   <text x="380" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
 </svg>
