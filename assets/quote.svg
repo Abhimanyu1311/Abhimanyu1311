@@ -8,7 +8,7 @@
   </defs>
   <rect width="760" height="124" rx="14" fill="url(#quote-bg)" />
   <text x="30" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#A78BFA" opacity="0.6">&#8220;</text>
-  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">First, solve the problem. Then, write the code.</text>
-  <text x="380" y="100" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— John Johnson</text>
+  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">Luck is what happens when preparation meets opportunity.</text>
+  <text x="380" y="100" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Seneca</text>
   <text x="380" y="124" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
 </svg>
