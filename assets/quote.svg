@@ -8,8 +8,8 @@
   </defs>
   <rect width="760" height="148" rx="14" fill="url(#quote-bg)" />
   <text x="30" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#A78BFA" opacity="0.6">&#8220;</text>
-  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">Believe in your infinite potential. Your only limitations are those you set</text>
-  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">upon yourself.</text>
-  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Roy T. Bennett</text>
+  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">Either you choose to stay in the shallow end of the pool or you go out into</text>
+  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">the ocean.</text>
+  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Christopher Reeve</text>
   <text x="380" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
 </svg>
