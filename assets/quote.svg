@@ -8,8 +8,8 @@
   </defs>
   <rect width="760" height="148" rx="14" fill="url(#quote-bg)" />
   <text x="30" y="45" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#A78BFA" opacity="0.6">&#8220;</text>
-  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">To know even one life has breathed easier because you have lived. This is to</text>
-  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">have succeeded.</text>
-  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Ralph Waldo Emerson</text>
+  <text x="380" y="60" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">When you are content to be simply yourself and don&apos;t compare or compete,</text>
+  <text x="380" y="84" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="16" fill="#E2E8F0">everybody will respect you.</text>
+  <text x="380" y="124" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#38BDF8">— Lao Tzu</text>
   <text x="380" y="148" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#64748B">refreshed daily · .github/workflows/update.yml</text>
 </svg>
